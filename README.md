@@ -43,13 +43,16 @@ beePrior.py requires the following columns:
  - track_endtime
 
 ### HOW TO USE
+```
+python beePrior.py <t> <t2> <csvfilename> <outputfile-optional>
+```
 
-python beePrior.py t t2 csvfilename outputfile-optional
-
-python beeAngle.py t angle csvfilename outputfile-optional
-
-python beeSingleAngle.py t angle csvfilename outputfile-optional
-
+```
+python beeAngle.py <t> <angle> <csvfilename> <outputfile-optional>
+```
+```
+python beeSingleAngle.py <t> <angle> <csvfilename> <outputfile-optional>
+```
 
 ### CREDITS
 
