@@ -42,13 +42,13 @@ SUMMED ANGLE	LAST ANGLE
 				1341
 
 
-LAST ANGLE	LAST DISTANCE
-40			92
-			151
-			162
-			265
-			425
-			542
-			545
+LAST ANGLE		LAST DISTANCE
+40				92
+				151
+				162
+				265
+				425
+				542
+				545
 			620
 			816
