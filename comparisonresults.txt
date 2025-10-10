@@ -50,5 +50,5 @@ LAST ANGLE		LAST DISTANCE
 				425
 				542
 				545
-			620
-			816
+				620
+				816
