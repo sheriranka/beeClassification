@@ -14,6 +14,8 @@ beeSingleAngle.py -> Classify events utilizing only last angle of event.
 
 cheatsheet.csv -> Manually corroborated event classification results
 
+month_data folder -> Same experiment with monthlong extracted data.
+
 ### USER-DEFINED VALUES
 
 t -> User-defined seconds threshold to divide and combine detections into events.
