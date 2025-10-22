@@ -12,7 +12,7 @@ beePrior.py -> Classify events utilizing distance prior checking function.
 
 beeSingleAngle.py -> Classify events utilizing only last angle of event.
 
-comparisonresults.txt -> Manually corroborated event classification result comparisons for randomly chosen differences. Was manually checked by observing numbers and not video data.
+cheatsheet.csv -> Manually corroborated event classification results
 
 ### USER-DEFINED VALUES
 
@@ -50,6 +50,7 @@ python beePrior.py <t> <t2> <csvfilename> <outputfile-optional>
 ```
 python beeAngle.py <t> <angle> <csvfilename> <outputfile-optional>
 ```
+
 ```
 python beeSingleAngle.py <t> <angle> <csvfilename> <outputfile-optional>
 ```
