@@ -4,6 +4,8 @@
 
 BeeClassify.ipynb -> Has all functions for user interactivity.
 
+BeeCam-AprilTag.ipynb -> Application of the prior detection on BeeCam-AprilTag data.
+
 beeActivity.csv -> File of all detections to be classified.
 
 beeAngle.py -> Classify events utilizing summed vector angle function.
@@ -13,6 +15,8 @@ beePrior.py -> Classify events utilizing distance prior checking function.
 beeSingleAngle.py -> Classify events utilizing only last angle of event.
 
 cheatsheet.csv -> Manually corroborated event classification results
+
+worker05.txt -> Data from BeeCam-AprilTag paper experiment.
 
 month_data folder -> Same experiment with monthlong extracted data.
 
@@ -59,4 +63,4 @@ python beeSingleAngle.py <t> <angle> <csvfilename> <outputfile-optional>
 
 ### CREDITS
 
-Summed vector angle function was taken from BeeCam-AprilTag https://github.com/AERS-Lab/BeeCam-AprilTag
+Summed vector angle function and worker05.txt was taken from BeeCam-AprilTag https://github.com/AERS-Lab/BeeCam-AprilTag
